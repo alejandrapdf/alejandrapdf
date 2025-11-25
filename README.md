@@ -6,10 +6,10 @@ I have a background in Computer Engineering and a passion for communicating, col
 
 ## 🚀 Previous Projects
 
-* **[AED Locator](https://github.com/alejandrapdf/AEDLocator)** – React-based application for locating defibrillators on campus
-* **[AI Training](https://github.com/alejandrapdf/AITraining)** – Small exercises training a Perceptron model for binary classification across multiple datasets
-* **[Simple Shell](https://github.com/alejandrapdf/CreatingSimpleShell)** – A basic Unix-like shell built from scratch
-* **[Boston Metro System](https://github.com/alejandrapdf/BostonMetroSystem)** – Route-finding interface and algorithm for navigating a metro network
+* **[AED Locator](https://github.com/alejandrapdf/AEDLocator)** – React-based application for locating cardiac defibrillators on university campuses.
+* **[AI Training](https://github.com/alejandrapdf/AITraining)** – Small exercises training a Perceptron model for binary classification across multiple datasets.
+* **[Simple Shell](https://github.com/alejandrapdf/CreatingSimpleShell)** – A basic Unix-like shell built from scratch.
+* **[Boston Metro System](https://github.com/alejandrapdf/BostonMetroSystem)** – Route-finding interface and algorithm for navigating a metro network.
 
 ## 🌿 Hobbies & Interests
 
