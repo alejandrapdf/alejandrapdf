@@ -6,6 +6,7 @@ I have a background in Computer Engineering and a passion for communicating, col
 
 ## 🚀 Previous Projects
 
+* **[Air Monitoring Dashboard](https://github.com/alejandrapdf/MonitoringDashboard_SoilScout)** – Next.js-based application for displaying air sensor data.
 * **[AED Locator](https://github.com/alejandrapdf/AEDLocator)** – React-based application for locating cardiac defibrillators on university campuses.
 * **[AI Training](https://github.com/alejandrapdf/AITraining)** – Small exercises training a Perceptron model for binary classification across multiple datasets.
 * **[Simple Shell](https://github.com/alejandrapdf/CreatingSimpleShell)** – A basic Unix-like shell built from scratch.
